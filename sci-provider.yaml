@@ -1,0 +1,38 @@
+payload:
+  # HUST
+  - "+.hust.edu"
+
+  # Web of Science
+  - "+.webofscience.com"
+  - "+.webofknowledge.com"
+  # ScienceDirect
+  - "+.sciencedirect.com"
+  # Springer
+  - "+.springer.com"
+  - "+.springernature.com"
+  # IEEE Xplore
+  - "+.ieee.org"
+  # Elsevier
+  - "+.elsevier.com"
+  - "+.sciencedirect.com"
+  - "+.scopus.com"
+  # Wiley
+  - "+.wiley.com"
+  - "+.onlinelibrary.wiley.com"
+  # Taylor & Francis
+  - "+.taylorandfrancis.com"
+  - "+.tandfonline.com"
+  # American Society of Civil Engineers
+  - "+.asce.org"
+  # American Institute of Aeronautics and Astronautics
+  - "+.aiaa.org"
+  # American Chemical Society
+  - "+.acs.org"
+  # Nature
+  - "+.nature.com"
+  # MDPI
+  - "+.mdpi.com"
+  # SAGE Journals
+  - "+.sagepub.com"
+  # ez scholar a tool
+  - "+.easyscholar.cc"
