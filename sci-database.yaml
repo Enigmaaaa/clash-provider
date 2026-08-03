@@ -1,0 +1,71 @@
+payload:
+
+  # =========================
+  # Web of Science / Clarivate
+  # =========================
+  - DOMAIN-SUFFIX,webofscience.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,wokinfo.com
+
+  # =========================
+  # Scopus
+  # =========================
+  - DOMAIN-SUFFIX,scopus.com
+
+  # =========================
+  # Google Scholar
+  # =========================
+  - DOMAIN-SUFFIX,scholar.google.com
+
+  # =========================
+  # Google Books
+  # =========================
+  - DOMAIN-SUFFIX,books.google.com
+
+  # =========================
+  # PubMed / NIH
+  # =========================
+  - DOMAIN-SUFFIX,pubmed.ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+  - DOMAIN-SUFFIX,nih.gov
+
+  # =========================
+  # arXiv
+  # =========================
+  - DOMAIN-SUFFIX,arxiv.org
+
+  # =========================
+  # Semantic Scholar
+  # =========================
+  - DOMAIN-SUFFIX,semanticscholar.org
+
+  # =========================
+  # OpenAlex
+  # =========================
+  - DOMAIN-SUFFIX,openalex.org
+
+  # =========================
+  # Crossref
+  # =========================
+  - DOMAIN-SUFFIX,crossref.org
+
+  # =========================
+  # ResearchGate
+  # =========================
+  - DOMAIN-SUFFIX,researchgate.net
+
+  # =========================
+  # CNKI
+  # =========================
+  - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,cnki.com.cn
+
+  # =========================
+  # Wanfang
+  # =========================
+  - DOMAIN-SUFFIX,wanfangdata.com.cn
+
+  # =========================
+  # VIP
+  # =========================
+  - DOMAIN-SUFFIX,cqvip.com
