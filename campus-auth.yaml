@@ -1,0 +1,34 @@
+payload:
+
+  # =========================
+  # Common academic identity
+  # =========================
+
+  # Shibboleth
+  - DOMAIN-SUFFIX,shibboleth.net
+
+  # OpenAthens
+  - DOMAIN-SUFFIX,openathens.net
+
+  # EZproxy
+  - DOMAIN-SUFFIX,ezproxy.com
+
+  # ORCID
+  - DOMAIN-SUFFIX,orcid.org
+
+  # =========================
+  # Common library systems
+  # =========================
+
+  - DOMAIN-SUFFIX,oclc.org
+
+  # =========================
+  # Chinese university auth
+  # =========================
+
+  # CARSI related
+  - DOMAIN-SUFFIX,carsi.edu.cn
+
+  # HUST
+  - DOMAIN-SUFFIX,hust.edu.cn
+  - DOMAIN-SUFFIX,lib.hust.edu.cn
