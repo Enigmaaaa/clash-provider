@@ -1,38 +1,140 @@
 payload:
-  # HUST
-  - "+.hust.edu"
+  # =========================
+  # DOI
+  # =========================
+  - DOMAIN-SUFFIX,doi.org
+  - DOMAIN-SUFFIX,dx.doi.org
 
-  # Web of Science
-  - "+.webofscience.com"
-  - "+.webofknowledge.com"
-  # ScienceDirect
-  - "+.sciencedirect.com"
-  # Springer
-  - "+.springer.com"
-  - "+.springernature.com"
-  # IEEE Xplore
-  - "+.ieee.org"
-  # Elsevier
-  - "+.elsevier.com"
-  - "+.sciencedirect.com"
-  - "+.scopus.com"
+  # =========================
+  # Elsevier / ScienceDirect
+  # =========================
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,elsevier.com
+  - DOMAIN-SUFFIX,els-cdn.com
+  - DOMAIN-SUFFIX,elsevierhealth.com
+  - DOMAIN-SUFFIX,sciencedirectassets.com
+  - DOMAIN-SUFFIX,api.elsevier.com
+
+  # =========================
+  # Springer Nature
+  # =========================
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,springerlink.com
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,naturecdn.com
+  - DOMAIN-SUFFIX,static-content.springer.com
+  - DOMAIN-SUFFIX,media.springernature.com
+
+  # =========================
+  # IEEE
+  # =========================
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,ieeexplore.ieee.org
+  - DOMAIN-SUFFIX,ieeeauthorcenter.ieee.org
+
+  # =========================
   # Wiley
-  - "+.wiley.com"
-  - "+.onlinelibrary.wiley.com"
+  # =========================
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,onlinelibrary.wiley.com
+  - DOMAIN-SUFFIX,wiley-vch.de
+
+  # =========================
+  # ACS
+  # =========================
+  - DOMAIN-SUFFIX,acs.org
+  - DOMAIN-SUFFIX,pubs.acs.org
+
+  # =========================
+  # Royal Society of Chemistry
+  # =========================
+  - DOMAIN-SUFFIX,rsc.org
+  - DOMAIN-SUFFIX,pubs.rsc.org
+
+  # =========================
   # Taylor & Francis
-  - "+.taylorandfrancis.com"
-  - "+.tandfonline.com"
-  # American Society of Civil Engineers
-  - "+.asce.org"
-  # American Institute of Aeronautics and Astronautics
-  - "+.aiaa.org"
-  # American Chemical Society
-  - "+.acs.org"
-  # Nature
-  - "+.nature.com"
+  # =========================
+  - DOMAIN-SUFFIX,tandfonline.com
+  - DOMAIN-SUFFIX,taylorfrancis.com
+
+  # =========================
+  # SAGE
+  # =========================
+  - DOMAIN-SUFFIX,sagepub.com
+  - DOMAIN-SUFFIX,journals.sagepub.com
+
+  # =========================
+  # Oxford University Press
+  # =========================
+  - DOMAIN-SUFFIX,oup.com
+  - DOMAIN-SUFFIX,academic.oup.com
+
+  # =========================
+  # Cambridge University Press
+  # =========================
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,cambridgecore.org
+
+  # =========================
+  # Cell Press / Elsevier
+  # =========================
+  - DOMAIN-SUFFIX,cell.com
+
+  # =========================
+  # PLOS
+  # =========================
+  - DOMAIN-SUFFIX,plos.org
+
+  # =========================
   # MDPI
-  - "+.mdpi.com"
-  # SAGE Journals
-  - "+.sagepub.com"
-  # ez scholar a tool
-  - "+.easyscholar.cc"
+  # =========================
+  - DOMAIN-SUFFIX,mdpi.com
+
+  # =========================
+  # Frontiers
+  # =========================
+  - DOMAIN-SUFFIX,frontiersin.org
+
+  # =========================
+  # Emerald
+  # =========================
+  - DOMAIN-SUFFIX,emerald.com
+
+  # =========================
+  # IOP Publishing
+  # =========================
+  - DOMAIN-SUFFIX,iop.org
+  - DOMAIN-SUFFIX,iopscience.iop.org
+
+  # =========================
+  # AIP Publishing
+  # =========================
+  - DOMAIN-SUFFIX,aip.org
+  - DOMAIN-SUFFIX,scitation.org
+
+  # =========================
+  # APS
+  # =========================
+  - DOMAIN-SUFFIX,aps.org
+  - DOMAIN-SUFFIX,link.aps.org
+
+  # =========================
+  # SPIE
+  # =========================
+  - DOMAIN-SUFFIX,spiedigitallibrary.org
+
+  # =========================
+  # ACM
+  # =========================
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,dl.acm.org
+
+  # =========================
+  # AAAI
+  # =========================
+  - DOMAIN-SUFFIX,aaai.org
+
+  # =========================
+  # USENIX
+  # =========================
+  - DOMAIN-SUFFIX,usenix.org
